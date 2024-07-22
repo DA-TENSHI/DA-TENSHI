@@ -6,4 +6,12 @@
 # 連絡先
 [Misskey](https://beta.romneko.net/@WAKASAWAN)
 [Twitter](https://x.com/WAKASAGISYSTEM)
-## <<<<<<<<<<EN>>>>>>>>>
+## EN
+# Who is this
+I'm MAI SHINANO.I'm student.
+# What me doing
+I mostly just tinker with my own homepage. 
+I occasionally raise issues.
+# contact
+[Misskey](https://beta.romneko.net/@WAKASAWAN)
+[Twitter](https://x.com/WAKASAGISYSTEM)
