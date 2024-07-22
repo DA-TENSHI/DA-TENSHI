@@ -6,3 +6,4 @@
 # 連絡先
 [Misskey](https://beta.romneko.net/@WAKASAWAN)
 [Twitter](https://x.com/WAKASAGISYSTEM)
+## <<<<<<<<<<EN>>>>>>>>>
